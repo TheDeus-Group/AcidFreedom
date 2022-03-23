@@ -6,3 +6,7 @@ commands:
   emf:
     description: English mothafuka, do you speak it?
     default: op
+  admininfo:
+    aliases: [apply, ai, admini, ainfo]
+    description: Apply for admin.
+    default: op

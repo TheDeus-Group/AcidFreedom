@@ -1,0 +1,8 @@
+# What to display in the admininfo command.
+admininfo:
+  - '&bHow to apply for an admin position on the TotalFreedom Server:'
+  - ' &6- Do not ask for admin in game'
+  - ' &2- Be helpful within the server'
+  - ' &6- Report those breaking the rules'
+  - ' &2- And apply on our forums at the link:'
+  - '&9https://forum.totalfreedom.me/d/45-admin-application-template'
