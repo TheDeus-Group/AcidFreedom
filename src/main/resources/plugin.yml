@@ -5,8 +5,10 @@ main: acidfreedom.acidfreedom.AcidFreedom
 commands:
   emf:
     description: English mothafuka, do you speak it?
+    usage: /emf <partialName>
     default: op
   admininfo:
     aliases: [apply, ai, admini, ainfo]
+    usage: /admininfo
     description: Apply for admin.
     default: op
